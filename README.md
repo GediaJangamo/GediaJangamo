@@ -1,6 +1,6 @@
 ### Bem-vindo(a) ao meu GitHub! Aqui você encontrará projetos e trabalhos que refletem minha paixão pela tecnologia e meu constante desejo de aprender e aprimorar minhas habilidades. Sinta-se à vontade para explorar, contribuir e compartilhar conhecimento. Estou aberta a conversas e discussões construtivas. Obrigada por visitar meu perfil!👩‍💻
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/gedia-jangamo-25752b213/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:linkedin.com/in/gedia-jangamo-25752b213/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gedyahgennyfah@gmail.com)
 
 ![GediaJangamo GitHub stats](https://github-readme-stats.vercel.app/api?username=GediaJangamo&show_icons=true&theme=radical)
