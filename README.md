@@ -5,7 +5,7 @@ Engenheira de Software apaixonada por tecnologia, inovação e inclusão digital
 </p>
 
 <p align="center">
-<a href="https://www.gediajangamo.com">🌐 Portfólio</a> •
+<a href="https://www.gediajangamo.com"> Portfólio</a> •
 <a href="https://linkedin.com/in/gedia-jangamo-25752b213/">LinkedIn</a> •
 <a href="mailto:gediajangamo@gmail.com">Email</a>
 </p>
@@ -30,7 +30,6 @@ Tenho interesse em criar experiências digitais intuitivas e inclusivas, contrib
 
 ###  Backend & Outros
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ---
@@ -44,15 +43,3 @@ Tenho interesse em criar experiências digitais intuitivas e inclusivas, contrib
 ##  UI/UX
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-##  Estatísticas
-![GediaJangamo GitHub stats](https://github-readme-stats.vercel.app/api?username=GediaJangamo&show_icons=true&theme=radical)
-
----
-
-##  Vamos conectar?
-
-Estou aberta a oportunidades, colaborações e conversas sobre tecnologia.
-
- Entre em contacto comigo!
